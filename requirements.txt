@@ -1,0 +1,30 @@
+# Core RAG & Document Processing
+streamlit>=1.20.0
+sentence-transformers==2.2.2
+faiss-cpu==1.7.4
+pdfplumber==0.7.6
+PyPDF2==3.0.1
+beautifulsoup4==4.12.2
+lxml==4.9.3
+
+# Data & Config
+python-dotenv==1.0.0
+requests==2.31.0
+urllib3==2.0.7
+
+# SEC & Financial Data
+sec-edgar-downloader==0.4.0
+
+# Image processing (for OCR fallback)
+pillow==10.0.0
+pytesseract==0.3.10
+
+# Neuro-Symbolic Layer
+networkx>=3.0
+
+# LLM providers
+openai==0.28.0
+
+# Optional: for async ops
+asyncio-contextmanager==1.0.0
+
