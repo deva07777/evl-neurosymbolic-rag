@@ -8,7 +8,7 @@
 The EV*L Framework is a Neuro-Symbolic Agentic RAG system designed to bridge the gap between probabilistic LLM outputs and deterministic financial truths. 
 
 2. System Architecture
-![Architecture Diagram](docs/architecture_v1.png)
+![Architecture Diagram](architecture_v1.png)
 *Key innovation: Parallel multi-agent verification (E-V-L) grounded in a NetworkX Knowledge Graph.*
 
 #3. The EV*L Logic
